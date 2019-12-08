@@ -250,9 +250,14 @@
     	border-radius:20px;
     }
     .panel p{
+
     	font-size: 20px;
+    	text-align: left;
+    	margin-left: 450px;
     	padding-left: 10px;
     	padding-top: 30px;
+    	word-break: break-all;
+    	overflow: auto;
     }
     #pc{
     	float:left;
