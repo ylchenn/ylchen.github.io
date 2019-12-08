@@ -28,7 +28,7 @@
     	margin-left: 90px;
     	margin-right: 0px;
     	margin-top:70px;
-    	/*border: dashed 10px silver;
+    	/*border: dashed 5px silver;
     	border-radius:200px;*/
     }
 
@@ -281,9 +281,10 @@ to {
 
     	font-size: 20px;
     	text-align: left;
-    	margin-left: 450px;
+    	margin-left: 420px;
+    	margin-right: 30px;
     	padding-left: 10px;
-    	padding-top: 30px;
+    	padding-top: 50px;
     	word-break: break-all;
     	overflow: auto;
     }
