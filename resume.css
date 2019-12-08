@@ -14,7 +14,6 @@
     	background-color:#F5F5F5;
     	border-radius:20px;
     	overflow: auto;
-    	/*margin-left: 150px;*/
 
     }
     #mp1{
@@ -28,8 +27,6 @@
     	margin-left: 90px;
     	margin-right: 0px;
     	margin-top:70px;
-    	/*border: dashed 5px silver;
-    	border-radius:200px;*/
     }
 
     #me{
@@ -63,13 +60,7 @@
     	line-height:80px;
     	padding-bottom:-10px;
     }
-    /*#stc{
-    	font-size:20px;
-    	font-weight: bolder;
-    	font-family: "Times New Roman";
-    	color:dimgray;
-    	letter-spacing:0.5px;
-    }*/
+
     a.a{
     	text-decoration: none;
         font-size:25px;
@@ -113,16 +104,11 @@
             margin-top: -25px;
     }
     #container{
-    	/*column-count:2;
-        column-rule:tan 5px dashed;*/
+
         background-color:#F5F5F5;
     	margin:0px auto;
     	text-align: center;
-    	/*margin-left: 155px;*/
     	margin-top:20px;
-    	/*margin-right: 155px;*/
-    	/*margin-right: 145px;*/
-    	/*margin-bottom:30px;*/
     	height:500px;
     	width:950px;
     	border-radius:20px;
@@ -130,7 +116,6 @@
     }
     #swskill{
     	float:left;
-    	/*margin-top:30px;*/
     	width:40%;
     	height:450px;
     	border-radius:20px;
@@ -138,10 +123,8 @@
     	background-color:#F5F5F5;
     	font-family:"STFangsong";
     	text-align:center;
-    	
     	color:silver;
     	margin-bottom:30px;
-    	/*margin-left: 150px;*/
     }
     #swskill h1{
     	color:dimgray;
@@ -213,11 +196,7 @@ to {
     	background-color:#F5F5F5;
     	font-family:"STFangsong";
     	text-align:center;
-
-    	/*margin-left: 50px;*/
     	margin-top:0px;
-    	/*margin-right: 150px;*/
-
     }
     #club h1{
     	color:dimgray;
@@ -293,11 +272,6 @@ to {
     	margin-top: 30px;
     	margin-left: 30px;
     	margin-bottom: 30px;
-    	/*border-style:dashed;
-    	border-width:1px;
-    	border-color:silver;
-    	border-radius:5px;*/
-    	/*padding-top: 35px;*/
     }
     #pc:hover{
     	box-shadow:3px 3px 12px gray;padding:3px;
@@ -322,8 +296,7 @@ to {
     	padding-right:30px;
     	padding-top: 10px;
     	padding-bottom:10px;
-    	/*margin-bottom:30px;
-    	margin-top:50px;*/
+
 
     }
     #pro3:hover{
