@@ -148,10 +148,38 @@
     	letter-spacing: 3px;
     }
     .skillbox{
+    	animation: Animate-HTML 4s;
+        -webkit-animation: Animate-HTML 4s;
+        -moz-animation: Animate-HTML 4s;
+        -o-animation: Animate-HTML 4s;
     	box-sizing:border-box;
     	width:100%;
-
     }
+    @keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 100%}
+}@-webkit-keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 100%}
+}@-moz-keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 100%}
+}@-o-keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 100%}
+}
 
     .skillbox p{
      color:dimgray;
